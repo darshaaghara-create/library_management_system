@@ -62,7 +62,7 @@ An interactive, command-line based Library Management System built entirely in P
   - bash
     - python library_management_system.py
 
-# 💡 Note: No external libraries are required. You do not need to run any pip install commands. The project uses only native Python features.
+### 💡 Note: No external libraries are required. You do not need to run any pip install commands. The project uses only native Python features.
 
 ---
 
@@ -79,7 +79,7 @@ LibrarySystem/
 
 ### ⚙️ How It Works
 
-## 🔑 Admin Access
+### 🔑 Admin Access
 
 - Select 1 from the main menu.
 
@@ -91,7 +91,7 @@ LibrarySystem/
 
 - From the Admin Menu, you can view, add, modify, or delete books.
 
-## 🧑‍🎓 User Access
+### 🧑‍🎓 User Access
 
 - Select 2 from the main menu.
 
