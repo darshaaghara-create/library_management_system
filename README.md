@@ -28,27 +28,27 @@ https://img.shields.io/badge/Status-Completed-success.svg
 
 ### ✨ Features
 
-🔐 Role-Based Access: Completely separate menus and permissions for Admins and Users.
+  🔐 Role-Based Access: Completely separate menus and permissions for Admins and Users.
 
-🛠️ Admin Controls: Easily add, update, or delete books from the library's catalog.
+  🛠️ Admin Controls: Easily add, update, or delete books from the library's catalog.
 
-🔍 Smart Search: Utilizes a recursive algorithm to quickly find books by title or author.
+  🔍 Smart Search: Utilizes a recursive algorithm to quickly find books by title or author.
 
-📤 Book Issuance: Users can issue books, with built-in checks to prevent issuing the same book twice.
+  📤 Book Issuance: Users can issue books, with built-in checks to prevent issuing the same book twice.
 
-📜 Transaction History: Automatically tracks every book issued and returned by a specific user.
+  📜 Transaction History: Automatically tracks every book issued and returned by a specific user.
 
-👤 User Authentication: New users are automatically registered; returning users must enter their password.
+  👤 User Authentication: New users are automatically registered; returning users must enter their password.
 
-📊 Book Counter: Users can instantly see how many books they currently have checked out.
+  📊 Book Counter: Users can instantly see how many books they currently have checked out.
 
-🛠️ Built With
+  🛠️ Built With
 
-Python 3 (Core Logic)
+  Python 3 (Core Logic)
 
-Data Structures: Uses Dictionaries, Sets, Tuples, and Lists for efficient in-memory data management.
+  Data Structures: Uses Dictionaries, Sets, Tuples, and Lists for efficient in-memory data management.
 
-Recursion: Implemented for the book search functionality.
+  Recursion: Implemented for the book search functionality.
 
 ---
 
@@ -132,6 +132,8 @@ This is a front-end, console-based academic project. All data (books, members, i
 
 - Darsha Aghar
 
+---
 
-📄 License
+### 📄 License
+
 This project is for educational purposes only.
