@@ -79,33 +79,33 @@ LibrarySystem/
 
 ### ⚙️ How It Works
 
-### 🔑 Admin Access
-
-- Select 1 from the main menu.
-
-- Log in using the default credentials:
-
-  - Username: admin
-
-  - Password: admin123
-
-- From the Admin Menu, you can view, add, modify, or delete books.
-
-### 🧑‍🎓 User Access
-
-- Select 2 from the main menu.
-
-- Enter your name and password. (If you are a new user, the system will automatically register you).
-
-- Once logged in, you can:
-
-  - Search the catalog
-
-  - Issue books
-
-  - Return books
-
-  - View your personal transaction history
+  ### 🔑 Admin Access
+  
+  - Select 1 from the main menu.
+  
+  - Log in using the default credentials:
+  
+    - Username: admin
+  
+    - Password: admin123
+  
+  - From the Admin Menu, you can view, add, modify, or delete books.
+  
+  ### 🧑‍🎓 User Access
+  
+  - Select 2 from the main menu.
+  
+  - Enter your name and password. (If you are a new user, the system will automatically register you).
+  
+  - Once logged in, you can:
+  
+    - Search the catalog
+  
+    - Issue books
+  
+    - Return books
+  
+    - View your personal transaction history
 
 ---
 
