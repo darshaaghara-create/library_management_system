@@ -1,11 +1,11 @@
 allbooks = {
-    1: ("Ramayan", "Valmiki", "500", "Ancient Publisher", "ISBN001"),
-    2: ("Mahabharat", "Ved Vyasa", "700", "Ancient Publisher", "ISBN002"),
-    3: ("Bhagavadgita", "Ved Vyasa", "300", "Ancient Publisher", "ISBN003"),
-    4: ("Radhaavatar", "Unknown", "400", "Local Publisher", "ISBN004"),
-    5: ("Krishnaavatar", "Unknown", "450", "Local Publisher", "ISBN005"),
-    6: ("Ganeshkatha", "Unknown", "350", "Local Publisher", "ISBN006"),
-    7: ("Shivkatha", "Unknown", "600", "Local Publisher", "ISBN007")
+    1: ("Pride and Prejudice", "Jane Austen", "500", "Ancient Publisher", "ISBN001"),
+    2: ("Moby Dick", "Herman Melville", "700", "Ancient Publisher", "ISBN002"),
+    3: ("The Great Gatsby", "F. Scott Fitzgerald", "300", "Ancient Publisher", "ISBN003"),
+    4: ("Jane Eyre", "Charlotte Bronte", "400", "Local Publisher", "ISBN004"),
+    5: ("Wuthering Heights", "Emily Bronte", "450", "Local Publisher", "ISBN005"),
+    6: ("Oliver Twist", "Charles Dickens", "350", "Local Publisher", "ISBN006"),
+    7: ("David Copperfield", "Charles Dickens", "600", "Local Publisher", "ISBN007")
 }
 
 members = {}            
